@@ -1,0 +1,9 @@
+torch 
+bitsandbytes
+transformers
+peft
+accelerate
+scipy
+numpy
+evaluate
+datasets
